@@ -1,0 +1,6 @@
+E:\HIT-C#\Tuan3\B1\bin\Debug\B1.exe.config
+E:\HIT-C#\Tuan3\B1\bin\Debug\B1.exe
+E:\HIT-C#\Tuan3\B1\bin\Debug\B1.pdb
+E:\HIT-C#\Tuan3\B1\obj\Debug\B1.csprojAssemblyReference.cache
+E:\HIT-C#\Tuan3\B1\obj\Debug\B1.exe
+E:\HIT-C#\Tuan3\B1\obj\Debug\B1.pdb
